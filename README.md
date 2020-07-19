@@ -1,8 +1,10 @@
 # NYC_Project
-New York City 311 calls 
+# New York City 311 calls
+![alt-text](https://github.com/nikhil2020/NYC_Project/blob/master/New_York_Calls_311.jpg)
+
 # Capstone Project in Python:-
 Perform a service request data analysis of New York City 311 calls.
-- **Importa311NYCservicerequest**
+### Import a 311 NYC service request
 - Read or Convert the columns ‘Created Date’ and 'Closed Date’ to datetime datatype and create a new column ‘Request_Closing_Time’ as the time elapsed between request creation and request closing. (Hint: Explore the package/module datetime) in seconds
 - Provide major insights/patterns that you can offer in a visual format(graphsor tables). At least 4 major conclusions that you can come up with after generic data mining.
 - Order the complaint types based on the average ‘Request_Closing_Time’ grouping them for different locations.
